@@ -6,15 +6,15 @@ CS50 AI is Harvard University's 'Introduction to Artificial Intelligence with Py
 
 ## Key Concepts
 
-⋅⋅* Depth-First Search
-⋅⋅* Breadth First Search
-⋅⋅* Heuristic Functions
-⋅⋅* MiniMax Algorithm
-⋅⋅* Alpha Beta Pruning
+..* Depth-First Search
+..* Breadth First Search
+..* Heuristic Functions
+..* MiniMax Algorithm
+..* Alpha Beta Pruning
 
 ### Degrees
 Implement a Breadth-First Search Algorithm to find the degrees of separation between two selected actors, by films they have starred in.
-⋅⋅* [My Solution]
+..* [My Solution](https://github.com/cormac-larkin/CS50-AI/tree/main/CS50%20AI/Week%200%20-%20Search/degrees "Degrees Solution")
 
 
 
